@@ -1,7 +1,50 @@
 fileFormatVersion: 2
 guid: 334caf5bb7136f743a71a65f6cc966ab
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Sharon-Idle_0
+    21300002: Sharon-Idle_1
+    21300004: Sharon-Idle_2
+    21300006: Sharon-Idle_3
+    21300008: Sharon-Idle_4
+    21300010: Sharon-Idle_5
+    21300012: Sharon-Idle_6
+    21300014: Sharon-Idle_7
+    21300016: Sharon-Idle_8
+    21300018: Sharon-Idle_9
+    21300020: Sharon-Idle_10
+    21300022: Sharon-Idle_11
+    21300024: Sharon-Idle_12
+    21300026: Sharon-Idle_13
+    21300028: Sharon-Idle_14
+    21300030: Sharon-Idle_15
+    21300032: Sharon-Idle_16
+    21300034: Sharon-Idle_17
+    21300036: Sharon-Idle_18
+    21300038: Sharon-Idle_19
+    21300040: Sharon-Idle_20
+    21300042: Sharon-Idle_21
+    21300044: Sharon-Idle_22
+    21300046: Sharon-Idle_23
+    21300048: Sharon-Idle_24
+    21300050: Sharon-Idle_25
+    21300052: Sharon-Idle_26
+    21300054: Sharon-Idle_27
+    21300056: Sharon-Idle_28
+    21300058: Sharon-Idle_29
+    21300060: Sharon-Idle_30
+    21300062: Sharon-Idle_31
+    21300064: Sharon-Idle_32
+    21300066: Sharon-Idle_33
+    21300068: Sharon-Idle_34
+    21300070: Sharon-Idle_35
+    21300072: Sharon-Idle_36
+    21300074: Sharon-Idle_37
+    21300076: Sharon-Idle_38
+    21300078: Sharon-Idle_39
+    21300080: Sharon-Idle_40
+    21300082: Sharon-Idle_41
+    21300084: Sharon-Idle_42
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -40,12 +83,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 200
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -60,7 +103,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -71,7 +114,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
     buildTarget: Standalone
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -82,7 +125,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
     buildTarget: Windows Store Apps
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -93,7 +136,867 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Sharon-Idle_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1669
+        width: 150
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24eda399349705747b161408f55b81bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_1
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1669
+        width: 150
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c76437f2e72e94bb0b0e130439c765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_2
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1669
+        width: 150
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ced50579d3231428f5adb1f2216f30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_3
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1669
+        width: 155
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4148d12fa9f68164c99d89a156a3c140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1669
+        width: 155
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5208b11501a88e549babe74ebd662345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1669
+        width: 153
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9a312203b4c804ba462f0f1d389df5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_6
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 1669
+        width: 146
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788a4582fcde7464eb7c7938deec4a9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1669
+        width: 146
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1915923bd60aa3428f07279477436f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_8
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 1669
+        width: 153
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e6529180898bc478d148ab297b8945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_9
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 1669
+        width: 146
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9333e9988a2234cb0d2aae0a64b2de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_10
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 1669
+        width: 160
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059d02bcd43feab4b8b2b424a1c6457e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_11
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 1669
+        width: 160
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe46885ca27ee594c955b873e6b8fded
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_12
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 1669
+        width: 153
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3051323a9f071094ba9e16f10394fd2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_13
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 1669
+        width: 151
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591dabd6395c53b47b6f87aa68b42fdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_14
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 1669
+        width: 160
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a67902f1efd8b4dbf53fd82fdcb661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_15
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 1664
+        width: 151
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef696f88005a7b49a3918f79de8a159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1291
+        width: 143
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a89ba0b79b6454db15903ff009df5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_17
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1291
+        width: 143
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0af53fe621059a40a9f71a434f61802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_18
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1291
+        width: 143
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9769ffb9bb99e147a4c01f80da019c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_19
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1291
+        width: 142
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ad4c937cd8c3847ae4b14451393ba5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_20
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1291
+        width: 142
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775c587c270551d4a9c6174791ff4f6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_21
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1291
+        width: 151
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daf39e8578d12847b41f322ad3dee54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_22
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1291
+        width: 151
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c99c0ffa3b6d57408efe32d2e7add38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_23
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1291
+        width: 142
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c03af66b9031bf42931694a1baba89a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_24
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 1291
+        width: 151
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829d3558e46584441ba45192edc2dbec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_25
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 1291
+        width: 142
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3182176e4f0a2f41a009994846c107b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_26
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 1291
+        width: 151
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8763297cbadca4942b6d75d95aa6615d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_27
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 1291
+        width: 144
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059b767b2526f0349a8638fca9d027e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_28
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1291
+        width: 153
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5385ddab5d5778a42a8cffa33199261e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_29
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 1291
+        width: 153
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd91a85806b17d45a4bdc285bbed4bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_30
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 1291
+        width: 146
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749b261855ff8df4e931b2addf370771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_31
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 1291
+        width: 153
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d57c9a59e868e6498c4884ae7792417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_32
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 912
+        width: 146
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0142645ce31d74a40b3634bd251aa474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_33
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 912
+        width: 146
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650de1db5aa0d65459e7b64478c7565f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_34
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 912
+        width: 146
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea486b59d0377d4ba14bfd23beeee95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_35
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 912
+        width: 146
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806b7b2c91623e244afa88af3949931d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_36
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 912
+        width: 153
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1da4655ae13c6418bbab04b157e6fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_37
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 912
+        width: 155
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386193d11b99a6c468a4c266d074e169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_38
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 912
+        width: 148
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793c78896e3346d43b51574cdfd20e83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_39
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 912
+        width: 155
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf1449c38367b24a98f72436517f502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_40
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 912
+        width: 155
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c893392091d0d14eab3c97811cb99e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_41
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 912
+        width: 150
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9cd27d9bb63f44b88037968683a1aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sharon-Idle_42
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 912
+        width: 150
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58866633bd457e499d428040e2a66fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

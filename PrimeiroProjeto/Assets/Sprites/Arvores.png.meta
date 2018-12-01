@@ -1,7 +1,9 @@
 fileFormatVersion: 2
-guid: cba5cfc6bd0653f47bcece9c24ed1d50
+guid: 002de6c5e84da81409c677946c0cf747
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Arvores_0
+    21300002: Arvores_1
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -40,10 +42,10 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 7
+  alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
@@ -93,11 +95,51 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Arvores_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 20
+        width: 536
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47bb5d0b14665d4389e6e75e4ef0dbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arvores_1
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 20
+        width: 402
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7d6df3f85cca646bbc3a6cb34c939f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: dafc7b05ca613ed458dfac82bc8c292f
+    spriteID: 2b57445d4c2746544833831c4ba77cc3
     vertices: []
     indices: 
     edges: []

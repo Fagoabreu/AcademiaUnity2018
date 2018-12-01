@@ -1,7 +1,10 @@
 fileFormatVersion: 2
-guid: cba5cfc6bd0653f47bcece9c24ed1d50
+guid: 5f604404a279f0c4492f5f65f942080c
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Pedra_0
+    21300002: Pedra_1
+    21300004: Caixa
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -40,10 +43,10 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 7
+  alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
@@ -93,11 +96,71 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Pedra_0
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 338
+        width: 123
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f94006790197d4490b24dc1ea95da3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedra_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 204
+        width: 173
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c707bbecdbe4d654b9b459075409ee3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixa
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 204
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8860dee35de52499f8f6dce13dbff7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: dafc7b05ca613ed458dfac82bc8c292f
+    spriteID: 21bd4a50a1eb7e142b055d007c02b86f
     vertices: []
     indices: 
     edges: []
